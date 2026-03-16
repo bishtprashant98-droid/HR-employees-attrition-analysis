@@ -31,7 +31,7 @@ The interactive dashboard provides insights into:
 - Dashboard_Screenshot.png – Final dashboard visualization
 
 ## Dashboard Preview
-([HR Dashboard](Dashboard_Screenshot.png))
+![HR Dashboard](Dashboard_Screenshot.png)
 
 ## Author
 Prashant Bisht
